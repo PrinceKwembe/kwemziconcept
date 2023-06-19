@@ -12473,7 +12473,12 @@ h5, .h5 {
 }
 
 .about-head {
-  font-weight: 800;
+  font-family: "chillax-medium";
+  font-weight: 700;
+}
+
+h2, .h2 {
+  font-family: "chillax-bold";
 }
 
 .contact-img-link {
